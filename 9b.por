@@ -16,21 +16,21 @@
 	{
 	se((ano % 400) == 0)
 	{
-	escreva("Este È um ano bissexto")
+	escreva("Este √© um ano bissexto")
 	}
 	senao
 	{
-	escreva("Este ano n„o È bissexto")
+	escreva("Este ano n√£o √© bissexto")
 	}
 	}
 	senao
 	{
-	escreva("Este È um ano bissexto")
+	escreva("Este √© um ano bissexto")
 	}
 	}
 	senao
   {               
-	escreva("Este ano n„o È bissexto")
+	escreva("Este ano n√£o √© bissexto")
 	}
 	}
 }
