@@ -8,11 +8,11 @@ programa
 	
 		se(letra == "a" ou letra == "e" ou letra == "i" ou letra == "o" ou letra == "u")
 		{
-			escreva("A letra que você digitou é uma vogal.")
+			escreva("A letra que vocÃª digitou Ã© uma vogal.")
 		}
 		senao
 		{
-			escreva("A letra que você digitou é uma consoante.")
+			escreva("A letra que vocÃª digitou Ã© uma consoante.")
 		}
 	}
 }
